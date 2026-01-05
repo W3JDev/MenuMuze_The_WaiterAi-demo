@@ -15,7 +15,7 @@
 - 🔄 **Real-time Updates** and table management
 
 ### 🚀 Live Demo
-**Try it here**: [Add your Vercel/deployment URL]
+**Coming Soon** - Production deployment in progress
 
 ### 🏗️ Tech Stack
 - **Frontend**: React, TypeScript, Vite
@@ -23,6 +23,7 @@
 - **Styling**: Tailwind CSS + shadcn/ui
 - **State Management**: React Context
 - **Real-time**: WebSocket connections
+- **Backend**: Node.js, Express, PostgreSQL
 
 ---
 
@@ -47,40 +48,6 @@
 - 🎯 **Personalized Recommendations**
 - 🌐 **Multi-language Support**
 - 🔊 **Voice Interaction** (optional)
-
----
-
-# ✦ MenuMuze: The Operating System for Modern Gastronomy
-
-**MenuMuze** is a high-end, AI-first restaurant management platform. It transforms traditional dining into an immersive, agentic experience using the **Model Context Protocol (MCP)** and **Gemini 3.0 Flash**.
-
-## 🚀 Key Innovation
-
-Unlike traditional apps, MenuMuze uses a **Mixture of Experts (MOE)** architecture. The AI agent ("M") communicates with multiple specialized databases (Postgres, Firestore, Redis) via MCP tools to provide real-time, low-latency hospitality services.
-
-## 🌑 Aesthetic
-
-Built on the **Obsidian Design System**, featuring a "Dark Luxury" OLED-black UI, glassmorphism, and generative motion graphics.
-
-## 🛠️ Tech Stack
-
-- **AI:** Gemini 3 Flash (Agentic Reasoning) & Gemini 2.5 Native Audio (Live Voice).
-- **Frontend:** React 19, Tailwind CSS, Lucide Icons.
-- **Backend:** Node.js, Express, MCP Server.
-- **Database:** PostgreSQL (Transactions), Firestore (Real-time Menu), Redis (Session Cache).
-
-## 📚 Documentation
-
-- [Architecture](./docs/ARCHITECTURE.md)
-- [Database Strategy](./docs/DATABASE_STRATEGY.md)
-- [Agent Config](./docs/AGENT_CONFIG.md)
-- [Style Blueprint](./docs/STYLE_BLUEPRINT.md)
-- [Roadmap](./docs/ROADMAP.md)
-
----
-
-Built with 🖤 by W3Dev.
-
 
 ---
 
@@ -112,9 +79,11 @@ This demo repo contains:
 
 ### Want to See More?
 - 💼 **Portfolio**: [portfolio.w3jdev.com](https://portfolio.w3jdev.com)
-- 📧 **Contact**: [Your contact email]
-- 💼 **LinkedIn**: [Your LinkedIn]
+- 📧 **Email**: w3jdev@gmail.com
+- 📞 **Phone**: +60174106981
+- 💼 **LinkedIn**: [linkedin.com/in/w3jdev](https://linkedin.com/in/w3jdev)
 - 🐦 **Twitter**: [@mnjewelps](https://twitter.com/mnjewelps)
+- 🔗 **GitHub**: [@W3JDev](https://github.com/W3JDev)
 
 ---
 
@@ -125,6 +94,55 @@ This public demo repo:
 - **Production secrets/configs removed** for security
 - **Core business logic abstracted** (proprietary)
 - **Full source available to qualified clients/employers** upon request
+
+---
+
+## 🛠️ Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/W3JDev/MenuMuze_The_WaiterAi-demo.git
+cd MenuMuze_The_WaiterAi-demo
+
+# Install dependencies
+npm install
+
+# Copy environment variables
+cp .env.example .env.local
+# Add your API keys (see .env.example for required variables)
+
+# Run development server
+npm run dev
+```
+
+Visit `http://localhost:5173` to see the app.
+
+---
+
+## 📖 Documentation
+
+- [Architecture Overview](docs/ARCHITECTURE.md)
+- [Product Details](docs/PRODUCT.md)
+- [Roadmap](docs/ROADMAP.md)
+- [AI Architecture Analysis](docs/AI_ARCHITECTURE_ANALYSIS.md)
+- [Setup Guide](docs/setup/SETUP.md)
+- [Pitch Deck](docs/PITCH_DECK.md)
+
+---
+
+## 🌟 About the Creator
+
+**Muhammad Nurunnabi (W3JDEV)**  
+Senior Full-Stack AI Engineer | AI Agents & Automation Specialist
+
+📍 Kuala Lumpur, Malaysia
+
+**Highlights:**
+- 🤖 Built 15+ production-ready AI-powered applications
+- 💰 Delivered 300%+ ROI and $24K+ annual savings through AI automation
+- ⚡ Reduced manual operational tasks by up to 95% across multiple clients
+- 🏆 GitHired Score: 93/100 | 1,799 GitHub Contributions (2025)
+- 🔒 Maintained zero security incidents across all enterprise deployments
 
 ---
 
@@ -148,4 +166,5 @@ Built with ❤️ using:
 
 **⭐ If you find this interesting, please star the repo!**
 
-For business inquiries or collaboration: [Contact Information]
+For business inquiries or collaboration opportunities:  
+📧 w3jdev@gmail.com | 📞 +60174106981
