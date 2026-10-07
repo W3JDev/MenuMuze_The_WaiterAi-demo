@@ -701,12 +701,6 @@ Zero-capex HR operating system for Malaysian SMEs
 - **Impact**: 95% reduction in payroll processing time
 - **Status**: Powering 3+ businesses
 
-### 🍷 VineAI - Wine Recommendation Engine
-Intelligent wine pairing via RAG pipeline
-- **Tech**: Python, FAISS, OpenAI, spaCy
-- **Impact**: 35% increase in ticket size, 300% ROI
-- **Status**: Deployed to 50+ restaurants (SEA)
-
 ---
 
 ## 📬 Contact & Connect
