@@ -660,7 +660,7 @@ Explore detailed documentation:
 - ⚡ **95% Task Reduction** in manual operational workflows
 - 🏆 **GitHired Score: 93/100** | 1,799+ GitHub Contributions (2025)
 - 🔒 **Zero Security Incidents** across all enterprise deployments
-- 🚀 **Fortune 500 Experience**: CMA CGM (shipping & logistics)
+- 🚀 **Fortune Global 500 Experience**: enterprise LLM document automation for a global logistics company (NDA)
 
 ### 🛠️ Core Expertise
 
